@@ -56,8 +56,8 @@ const config = {
                 rank: "Co-Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "rgba(255, 3, 3, 1)"
-            },
-            {
+            }
+            /*{
                 inGameName: "",
                 rank: "Manager",
                 skinUrlOrPathToFile: "",
@@ -68,10 +68,10 @@ const config = {
                 rank: "Moderator",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
-            }
+            }*/
         ],
         developers: [
-            {
+            /*{
                 inGameName: "",
                 rank: "Developer",
                 skinUrlOrPathToFile: "",
@@ -94,10 +94,10 @@ const config = {
                 rank: "Discord manager",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
-            }
+            }*/
         ],
         helpers: [
-            {
+            /*{
                 inGameName: "",
                 rank: "Helper++",
                 skinUrlOrPathToFile: "",
@@ -132,10 +132,10 @@ const config = {
                 rank: "Helper",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
-            }
+            }*/
         ],
         builders: [
-            {
+            /*{
                 inGameName: "",
                 rank: "Builder++",
                 skinUrlOrPathToFile: "",
@@ -170,7 +170,7 @@ const config = {
                 rank: "Builder",
                 skinUrlOrPathToFile: "",
                 rankColor: ""
-            }
+            }*/
         ]
     },
 
